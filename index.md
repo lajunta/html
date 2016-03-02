@@ -6,10 +6,14 @@
 
 ### 二、学习内容
 
-1. [基础知识](intro.md)
-2. [基本标签](core_tag.md)
-3. [表格](table.md)
-4. [DIV盒子](div.md)
+- [基础知识](intro.md)
+- [基本标签](core_tag.md)
+- [列表](list.md)
+- [表格](table.md)
+- [DIV](div.md)
+- [盒子模型](box.md)
+- [颜色](color.md)
+- [简单布局](simple_layout.md)
 
 ### 链接引用
 
