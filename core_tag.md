@@ -19,7 +19,6 @@
 	<p> 段落二 </p>
 	...
 ```
-
 #### 四、超级链接
 
 ```
@@ -37,7 +36,7 @@
 	
 	<img src='images/img_sample.jpg' width='640px' height='480px'/>
 ```
-<img src='images/img_sample.jpg' />
+![示例图片](images/img_sample.jpg)
 
 以图像为超链接
 ```
